@@ -1,73 +1,44 @@
-<!DOCTYPE html>
-<html>
-<head>
+---
+title: Welcome!
+---
 
-<title>My Systems Engineering Blog</title>
+Welcome to `topofmind.dev`
+========
 
-<link rel="stylesheet" href="style.css">
+<center markdown>
 
-</head>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&weight=500&duration=2000&color=33FF33&background=101010&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=75&lines=SWE+%40+CoreWeave;Building+an+AI+Public+Cloud)
 
-<body>
+</center markdown>
 
-<h1>Systems Engineering Notes</h1>
+About Me
+--------
 
-<p>
-Welcome. This site contains notes on systems performance,
-Linux internals, distributed systems, and GPU infrastructure.
-</p>
+My name is Landon Clipp and I am a software engineer who currently lives in Chicago, IL. I've worked in a number of different fields, including public research (mainly climatology), high frequency trading, and most recently in the public cloud building out high performance infrastructure for AI research.
 
-<hr>
+I'm passionate about a number of things, and consequently this blog will dive into many various topics. The two most interesting sections of this website are my [Blog](blog/index.md) and also what I call my ["Professional" Notes](notes/index.md).
 
-<h2>Topics</h2>
+What is this Blog?
+------------------
 
-<ul>
-<li><a href="bluefield3.html">Bluefield 3</a></li>
-<li><a href="ai.html">AI Infrastructure</a></li>
-<li><a href="linux.html">Linux Performance</a></li>
-<li><a href="gpu.html">GPU Systems</a></li>
-<li><a href="distributed.html">Distributed Systems</a></li>
-</ul>
+This blog is my dumping ground for every random thought, every interesting idea, and every useful thing I learn. It's not meant so much for others, but moreso as a tool for me to remember my experiences and to make sense of the million ideas that swirl around in my head. I wasn't born with an eidetic memory so my brain only has a certain amount of informational capacity. This blog, in a sense, is a cross-section of my mind at various points in time. Then again, isn't that true for all written word? By writing things down, I hope to enshrine things I've learned and to reinforce the pathways I want to encourage. The side-effect, I hope, is that you find it somehow useful as well :smile:
 
-<hr>
 
-<h2>Latest Articles</h2>
+<div class="grid cards" markdown>
 
-<ul>
+- ![](https://assets.topofmind.dev/images/miscellaneous/20180624_200055.jpg?t=2024-01-02T23%3A35%3A34.358Z)
+- ![](https://assets.topofmind.dev/images/miscellaneous/IMG_1901.jpeg?t=2024-01-02T23%3A43%3A07.448Z)
+- ![](https://assets.topofmind.dev/images/miscellaneous/20210816_213708.jpg?t=2024-01-02T23%3A36%3A00.483Z)
+- ![](https://assets.topofmind.dev/images/miscellaneous/20181115_110109.jpg?t=2024-01-02T23%3A35%3A41.686Z)
+- ![](https://assets.topofmind.dev/images/miscellaneous/20190722_130657.jpg?t=2024-01-02T23%3A35%3A54.983Z)
 
-<li>
-<a href="fp8.html">
-Understanding FP8 Training
-</a>
-</li>
+- ![](https://assets.topofmind.dev/images/miscellaneous/IMG_2186.jpg?t=2024-01-02T23%3A39%3A24.067Z)
+- ![](https://assets.topofmind.dev/images/miscellaneous/IMG_2187.jpg?t=2024-01-02T23%3A39%3A37.513Z)
+- ![](https://assets.topofmind.dev/images/miscellaneous/IMG_2589.jpg?t=2024-01-02T23%3A39%3A43.538Z)
 
-<li>
-<a href="gpu-clusters.html">
-Scaling GPU Clusters to 10,000 Nodes
-</a>
-</li>
+- ![](https://assets.topofmind.dev/images/miscellaneous/IMG_3575.jpeg?t=2024-01-02T23%3A46%3A04.629Z)
 
-<li>
-<a href="linux-perf.html">
-Linux Performance Tools Guide
-</a>
-</li>
-
-</ul>
-
-<hr>
-
-<h2>Resources</h2>
-
-<ul>
-<li><a href="#">Performance Tools</a></li>
-<li><a href="#">System Diagrams</a></li>
-<li><a href="#">Cheat Sheets</a></li>
-</ul>
-
-<hr>
-
-<p>
+</div>
 © 2026 Systems Engineering Blog
 </p>
 
