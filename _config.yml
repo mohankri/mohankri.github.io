@@ -1,0 +1,8 @@
+title: Technical Blog
+description: Notes and tutorials on AI, Linux, GPU, Distributed Systems
+baseurl: "" # leave empty for user.github.io
+url: "https://username.github.io"
+theme: minima
+markdown: kramdown
+paginate: 5
+highlighter: rouge
