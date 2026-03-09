@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to the Technical Blog
+# Welcome to the Krishna Mohan Technical Blog
 
 Explore posts on:
 
